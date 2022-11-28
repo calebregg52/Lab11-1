@@ -1,0 +1,5 @@
+/mnt/c/EECE 2080C/Lab/Lab11/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/EECE 2080C/Lab/Lab11/build/CMakeFiles/edit_cache.dir
+/mnt/c/EECE 2080C/Lab/Lab11/build/CMakeFiles/runMain.dir
+/mnt/c/EECE 2080C/Lab/Lab11/build/CMakeFiles/runTests.dir
+/mnt/c/EECE 2080C/Lab/Lab11/build/CMakeFiles/applibrary.dir

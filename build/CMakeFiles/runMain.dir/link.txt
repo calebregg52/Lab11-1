@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/runMain.dir/main.cpp.o  -o runMain  -Wl,-rpath,"/mnt/c/EECE 2080C/Lab/Lab11/build" -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread libapplibrary.so 

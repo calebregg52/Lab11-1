@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/runTests.dir/tests.cpp.o  -o runTests  -Wl,-rpath,"/mnt/c/EECE 2080C/Lab/Lab11/build" -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread libapplibrary.so 
