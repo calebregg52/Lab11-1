@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/EECE 2080C/Lab/Lab11/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/runMain.dir/main.cpp.o -c \"/mnt/c/EECE 2080C/Lab/Lab11/main.cpp\"",
+  "file": "/mnt/c/EECE 2080C/Lab/Lab11/main.cpp"
+},
+{
+  "directory": "/mnt/c/EECE 2080C/Lab/Lab11/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/runTests.dir/tests.cpp.o -c \"/mnt/c/EECE 2080C/Lab/Lab11/tests.cpp\"",
+  "file": "/mnt/c/EECE 2080C/Lab/Lab11/tests.cpp"
+},
+{
+  "directory": "/mnt/c/EECE 2080C/Lab/Lab11/build",
+  "command": "/usr/bin/g++  -Dapplibrary_EXPORTS  -g -fPIC   -o CMakeFiles/applibrary.dir/graph.cpp.o -c \"/mnt/c/EECE 2080C/Lab/Lab11/graph.cpp\"",
+  "file": "/mnt/c/EECE 2080C/Lab/Lab11/graph.cpp"
+}
+]
